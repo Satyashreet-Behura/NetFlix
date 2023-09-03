@@ -1,1 +1,2 @@
 # NetFlix
+The following repository contains the analysis of NetFlix dataset . The repository contains the entire code,tables and charts etc written in python using it's libraries like numpy and pandas for exploratory data analysis for valuable insights.It also uses matplotlib and seaborn like python libraries to give a visual impact as well as insights . Feel free to contribute and access the resources contained here.
